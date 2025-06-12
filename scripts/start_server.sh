@@ -1,2 +1,2 @@
 #!/bin/bash
-node /var/www/html/app/app.js &
+sudo cp /tmp/index.html /var/www/html/index.html
